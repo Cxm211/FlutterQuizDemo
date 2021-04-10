@@ -1,0 +1,53 @@
+[
+   {
+      "question":"Which of the following is a mammal?",
+      "Options":[
+         "Duck",
+         "Whale",
+         "Butterfly",
+         "Shark"
+      ],
+      "Explanation":"Whales are mammals. Mammals are characterized by the presence of mammary glands in which females produce milk for feeding their young.",
+      "answer":"Whale",
+      "images":[
+         "assets/duck.PNG",
+         "assets/whale.png",
+         "assets/Butterfly.PNG",
+         "assets/Shark.PNG"
+      ]
+   },
+   {
+      "question":"Which of the following materials is the hardest?",
+      "Options":[
+         "Granite",
+         "Steel",
+         "Diamond",
+         "Gold"
+      ],
+      "Explanation":"Diamonds are the hardest material on the Vickers hardness scale.",
+      "answer":"Diamond",
+      "images":[
+         "assets/granite.png",
+         "assets/steel.png",
+         "assets/Diamond.png",
+         "assets/gold.png"
+      ]
+   },
+   {
+      "question":"Which planet is the smallest?",
+      "Options":[
+         "Mercury",
+         "Venus",
+         "Neptune",
+         " Earth"
+      ],
+      "Explanation":"Mercury is the smallest.",
+      "answer":"Mercury",
+      "images":[
+         "assets/mercury.jpg",
+         "assets/venus.png",
+         "assets/neptune.png",
+         "assets/earth.png"
+      ]
+   }
+]
